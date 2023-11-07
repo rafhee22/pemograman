@@ -1,0 +1,28 @@
+C:\kodechallenge\kodechallenge\bin\Debug\netcoreapp3.1\kodechallenge.exe
+C:\kodechallenge\kodechallenge\bin\Debug\netcoreapp3.1\kodechallenge.deps.json
+C:\kodechallenge\kodechallenge\bin\Debug\netcoreapp3.1\kodechallenge.runtimeconfig.json
+C:\kodechallenge\kodechallenge\bin\Debug\netcoreapp3.1\kodechallenge.runtimeconfig.dev.json
+C:\kodechallenge\kodechallenge\bin\Debug\netcoreapp3.1\kodechallenge.dll
+C:\kodechallenge\kodechallenge\bin\Debug\netcoreapp3.1\kodechallenge.pdb
+C:\kodechallenge\kodechallenge\obj\Debug\netcoreapp3.1\kodechallenge.csproj.AssemblyReference.cache
+C:\kodechallenge\kodechallenge\obj\Debug\netcoreapp3.1\kodechallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\kodechallenge\kodechallenge\obj\Debug\netcoreapp3.1\kodechallenge.AssemblyInfoInputs.cache
+C:\kodechallenge\kodechallenge\obj\Debug\netcoreapp3.1\kodechallenge.AssemblyInfo.cs
+C:\kodechallenge\kodechallenge\obj\Debug\netcoreapp3.1\kodechallenge.csproj.CoreCompileInputs.cache
+C:\kodechallenge\kodechallenge\obj\Debug\netcoreapp3.1\kodechallenge.dll
+C:\kodechallenge\kodechallenge\obj\Debug\netcoreapp3.1\kodechallenge.pdb
+C:\kodechallenge\kodechallenge\obj\Debug\netcoreapp3.1\kodechallenge.genruntimeconfig.cache
+D:\semester 2\progemer\kodechallenge\bin\Debug\netcoreapp3.1\kodechallenge.exe
+D:\semester 2\progemer\kodechallenge\bin\Debug\netcoreapp3.1\kodechallenge.deps.json
+D:\semester 2\progemer\kodechallenge\bin\Debug\netcoreapp3.1\kodechallenge.runtimeconfig.json
+D:\semester 2\progemer\kodechallenge\bin\Debug\netcoreapp3.1\kodechallenge.runtimeconfig.dev.json
+D:\semester 2\progemer\kodechallenge\bin\Debug\netcoreapp3.1\kodechallenge.dll
+D:\semester 2\progemer\kodechallenge\bin\Debug\netcoreapp3.1\kodechallenge.pdb
+D:\semester 2\progemer\kodechallenge\obj\Debug\netcoreapp3.1\kodechallenge.csproj.AssemblyReference.cache
+D:\semester 2\progemer\kodechallenge\obj\Debug\netcoreapp3.1\kodechallenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\semester 2\progemer\kodechallenge\obj\Debug\netcoreapp3.1\kodechallenge.AssemblyInfoInputs.cache
+D:\semester 2\progemer\kodechallenge\obj\Debug\netcoreapp3.1\kodechallenge.AssemblyInfo.cs
+D:\semester 2\progemer\kodechallenge\obj\Debug\netcoreapp3.1\kodechallenge.csproj.CoreCompileInputs.cache
+D:\semester 2\progemer\kodechallenge\obj\Debug\netcoreapp3.1\kodechallenge.dll
+D:\semester 2\progemer\kodechallenge\obj\Debug\netcoreapp3.1\kodechallenge.pdb
+D:\semester 2\progemer\kodechallenge\obj\Debug\netcoreapp3.1\kodechallenge.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\semester 2\progemer\contoh\contoh\obj\Debug\net6.0\contoh.GeneratedMSBuildEditorConfig.editorconfig
+D:\semester 2\progemer\contoh\contoh\obj\Debug\net6.0\contoh.AssemblyInfoInputs.cache
+D:\semester 2\progemer\contoh\contoh\obj\Debug\net6.0\contoh.AssemblyInfo.cs
+D:\semester 2\progemer\contoh\contoh\obj\Debug\net6.0\contoh.csproj.CoreCompileInputs.cache
+D:\semester 2\progemer\contoh\contoh\bin\Debug\net6.0\contoh.exe
+D:\semester 2\progemer\contoh\contoh\bin\Debug\net6.0\contoh.deps.json
+D:\semester 2\progemer\contoh\contoh\bin\Debug\net6.0\contoh.runtimeconfig.json
+D:\semester 2\progemer\contoh\contoh\bin\Debug\net6.0\contoh.dll
+D:\semester 2\progemer\contoh\contoh\bin\Debug\net6.0\ref\contoh.dll
+D:\semester 2\progemer\contoh\contoh\bin\Debug\net6.0\contoh.pdb
+D:\semester 2\progemer\contoh\contoh\obj\Debug\net6.0\contoh.dll
+D:\semester 2\progemer\contoh\contoh\obj\Debug\net6.0\ref\contoh.dll
+D:\semester 2\progemer\contoh\contoh\obj\Debug\net6.0\contoh.pdb
+D:\semester 2\progemer\contoh\contoh\obj\Debug\net6.0\contoh.genruntimeconfig.cache

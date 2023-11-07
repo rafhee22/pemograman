@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Eo300OeOrEKz50BSOymm1FVWaCHduK6ZyzWx9VBoB03j9TPbfoJhEZd+FZ1uqJM4X1fLgkcxBRenwMS8chhsJQ==",
+  "success": true,
+  "projectFilePath": "D:\\semester 2\\progemer\\kodechallenge\\kodechallenge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\My Computer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.26\\microsoft.netcore.app.host.win-x64.3.1.26.nupkg.sha512",
+    "C:\\Users\\My Computer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\My Computer\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\My Computer\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
