@@ -1,0 +1,120 @@
+<Window.Background>
+        <ImageBrush ImageSource="pack://application:,,/Aset/Bengkel HP.png"/>
+    </Window.Background>
+    <Window.Resources>
+        <ResourceDictionary>
+            <Style TargetType="Button" x:Key="Button_Form">
+                <Setter Property="Background">
+                    <Setter.Value>
+                        <ImageBrush ImageSource="E:\21.11.3827\BengkelHpMasErman\BengkelHpMasErman\Aset\Button\Sparepart_Idle.png"/>
+                    </Setter.Value>
+                </Setter>
+                
+                <Setter Property="Template">
+                    <Setter.Value>
+                        <ControlTemplate TargetType="{x:Type Button}">
+                            <Border Background="{TemplateBinding Background}">
+                                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                            </Border>
+                        </ControlTemplate>
+                    </Setter.Value>
+                </Setter>
+                <Style.Triggers>
+                    <Trigger Property="IsPressed" Value="true">
+                        <Setter Property="Content">
+                            <Setter.Value>
+                                <Image Source="E:\21.11.3827\BengkelHpMasErman\BengkelHpMasErman\Aset\Button\Sparepart_Click.png" Stretch="Fill"/>
+                            </Setter.Value>
+                        </Setter>
+                    </Trigger>
+                </Style.Triggers>
+            </Style>
+            <Style TargetType="Button" x:Key="Button_Form2">
+                <Setter Property="Background">
+                    <Setter.Value>
+                        <ImageBrush ImageSource="E:\21.11.3827\BengkelHpMasErman\BengkelHpMasErman\Aset\Button\Service_Idle.png"/>
+                    </Setter.Value>
+                </Setter>
+
+                <Setter Property="Template">
+                    <Setter.Value>
+                        <ControlTemplate TargetType="{x:Type Button}">
+                            <Border Background="{TemplateBinding Background}">
+                                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                            </Border>
+                        </ControlTemplate>
+                    </Setter.Value>
+                </Setter>
+                <Style.Triggers>
+                    <Trigger Property="IsPressed" Value="true">
+                        <Setter Property="Content">
+                            <Setter.Value>
+                                <Image Source="E:\21.11.3827\BengkelHpMasErman\BengkelHpMasErman\Aset\Button\Service_Click.png" Stretch="Fill"/>
+                            </Setter.Value>
+                        </Setter>
+                    </Trigger>
+                </Style.Triggers>
+            </Style>
+
+            <Style TargetType="Button" x:Key="Button_Form3">
+                <Setter Property="Background">
+                    <Setter.Value>
+                        <ImageBrush ImageSource="E:\21.11.3827\BengkelHpMasErman\BengkelHpMasErman\Aset\Button\Exit_Idle.png"/>
+                    </Setter.Value>
+                </Setter>
+
+                <Setter Property="Template">
+                    <Setter.Value>
+                        <ControlTemplate TargetType="{x:Type Button}">
+                            <Border Background="{TemplateBinding Background}">
+                                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                            </Border>
+                        </ControlTemplate>
+                    </Setter.Value>
+                </Setter>
+                <Style.Triggers>
+                    <Trigger Property="IsPressed" Value="true">
+                        <Setter Property="Content">
+                            <Setter.Value>
+                                <Image Source="E:\21.11.3827\BengkelHpMasErman\BengkelHpMasErman\Aset\Button\Exit_Click.png" Stretch="Fill"/>
+                            </Setter.Value>
+                        </Setter>
+                    </Trigger>
+                </Style.Triggers>
+            </Style>
+        </ResourceDictionary>
+        
+    </Window.Resources>
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="14*"/>
+            <RowDefinition Height="81*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" Background="#aaff0000"/>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="170*"/>
+                <ColumnDefinition Width="580*"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0" Background="#aa00ff00">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+                <Button Margin="15,-7,15,10" Grid.Row="1" Style="{StaticResource Button_Form}"/>
+
+                <Button Margin="15,-7,15,10" Grid.Row="2" Style="{StaticResource Button_Form2}"/>
+
+                <Button Margin="15,19,15,-19" Grid.Row="5" Style="{StaticResource Button_Form3}"/>
+                    
+            </Grid>
+            <Grid Grid.Column="1" Background="#aa00eeff"/>
+        </Grid>
+    </Grid>
+</Window>

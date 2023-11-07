@@ -1,0 +1,20 @@
+D:\semster 3\pmrog\tugas uts\tugas uts\bin\Debug\tugas uts.exe.config
+D:\semster 3\pmrog\tugas uts\tugas uts\bin\Debug\tugas uts.exe
+D:\semster 3\pmrog\tugas uts\tugas uts\bin\Debug\tugas uts.pdb
+D:\semster 3\pmrog\tugas uts\tugas uts\obj\Debug\tugas uts.csproj.SuggestedBindingRedirects.cache
+D:\semster 3\pmrog\tugas uts\tugas uts\obj\Debug\MainWindow.g.cs
+D:\semster 3\pmrog\tugas uts\tugas uts\obj\Debug\Window1.g.cs
+D:\semster 3\pmrog\tugas uts\tugas uts\obj\Debug\Window2.g.cs
+D:\semster 3\pmrog\tugas uts\tugas uts\obj\Debug\App.g.cs
+D:\semster 3\pmrog\tugas uts\tugas uts\obj\Debug\tugas uts_MarkupCompile.cache
+D:\semster 3\pmrog\tugas uts\tugas uts\obj\Debug\tugas uts_MarkupCompile.lref
+D:\semster 3\pmrog\tugas uts\tugas uts\obj\Debug\MainWindow.baml
+D:\semster 3\pmrog\tugas uts\tugas uts\obj\Debug\Window1.baml
+D:\semster 3\pmrog\tugas uts\tugas uts\obj\Debug\Window2.baml
+D:\semster 3\pmrog\tugas uts\tugas uts\obj\Debug\tugas uts.g.resources
+D:\semster 3\pmrog\tugas uts\tugas uts\obj\Debug\tugas_uts.Properties.Resources.resources
+D:\semster 3\pmrog\tugas uts\tugas uts\obj\Debug\tugas uts.csproj.GenerateResource.cache
+D:\semster 3\pmrog\tugas uts\tugas uts\obj\Debug\tugas uts.csproj.CoreCompileInputs.cache
+D:\semster 3\pmrog\tugas uts\tugas uts\obj\Debug\tugas uts.exe
+D:\semster 3\pmrog\tugas uts\tugas uts\obj\Debug\tugas uts.pdb
+D:\semster 3\pmrog\tugas uts\tugas uts\obj\Debug\tugas uts.csproj.AssemblyReference.cache
